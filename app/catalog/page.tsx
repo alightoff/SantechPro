@@ -1,4 +1,6 @@
 // app/catalog/page.tsx
+export const dynamic = 'force-dynamic';
+
 'use client';
 
 import { useState, useMemo, useEffect } from 'react';
